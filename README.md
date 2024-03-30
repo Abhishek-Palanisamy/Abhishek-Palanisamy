@@ -52,6 +52,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Abhishek-Palanisamy/Abhishek-Palanisamy/output/snake.svg" alt="Snake animation" />
 
 ###
